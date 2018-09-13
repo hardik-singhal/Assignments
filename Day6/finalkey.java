@@ -1,4 +1,4 @@
-class hello
+class final hello
 {
 	int a=25,b=30;
 	void disp()
